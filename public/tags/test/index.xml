@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Hugo Creative Theme</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on Hugo Creative Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>/post/test-post/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test-post/</guid>
+      <description>I’m guessing I should write somewhere over here, I hope this works. What else should I put here, I guess it has to be meaty. I could talk about how good chillstep is, especially when less than sober, but that is a moot point. I really feel for chocolate. My iron looks awesome, and you can’t normally say that about an iron. I should probably tidy up a bit after this.</description>
+    </item>
+    
+  </channel>
+</rss>

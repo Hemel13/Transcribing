@@ -1,0 +1,12 @@
+---
+title: Test Post
+author: Hemel
+date: '2017-09-09'
+categories:
+  - Test
+tags:
+  - Test
+slug: test-post
+---
+I'm guessing I should write somewhere over here, I hope this works.
+What else should I put here, I guess it has to be meaty. I could talk about how good chillstep is, especially when less than sober, but that is a moot point. I really feel for chocolate. My iron looks awesome, and you can't normally say that about an iron. I should probably tidy up a bit after this. Realised that google docs offers access permissions.
