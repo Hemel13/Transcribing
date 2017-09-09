@@ -1,3 +1,5 @@
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]	
+
 baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
