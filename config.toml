@@ -1,0 +1,107 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Hugo Creative Theme"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Hemel Soni"
+	description = "Transcriptions for UCT academic courses"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Word of Mouth"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Features"
+			portfolio = "Scripts"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Less Stress, Better Productivity"
+		subtitle   = "Developing simple tools to transform the educational space and redefine learning"
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Do you feel that you don't have enough time for a course?"
+		description = "[Lorem](//google.com) We can't make that course go away, but we can provide a tool to let you filter relevent information, quickly find what you are looking for, and improve your learning speed and retention."
+		buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "Key features"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "Quality"
+            description = "Our Scripts are hand transcribed for the best accuracy and readability"
+
+        [[params.services.list]]
+			icon = "fa-paper-plane"
+			title = "Filtering"
+			description = "The top student in your class curates the material, highlighting what they find unique and relevent. Take a glance into a high performer's mind"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Search"
+            description = "Using ctrl+F to search together with accurate timestamps lets you find what you are looking for both in the document and the video lecture"
+
+        [[params.services.list]]
+            icon = "fa-heart"
+            title = "Speed and Retention"
+            description = "Read along with the audio and be surprised at how fast you can speed it up!"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Lecture"
+        date = "Date"
+        category = "Topic"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Want more?"
+
+		[params.aside.button]
+			text = "Donate"
+			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Tell us what you think"
+		description = "Help us bring the best possible offering to you. All advice and constructive criticism is appreciated, even a simple thanks!"
+		Whatsapp = "078 000 8714"
+		email = "snxhem001@myuct.ac.za"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""
