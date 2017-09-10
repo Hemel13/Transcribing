@@ -2,9 +2,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Word of Mouth"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-106195578-1"
 
 [params]
 
