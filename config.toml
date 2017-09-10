@@ -1,6 +1,6 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]	
 
-baseurl = "/"
+baseurl = "https://biochemist-canary-71542.netlify.com/"
 languageCode = "en-us"
 title = "Word of Mouth"
 theme = "hugo-creative-theme"
