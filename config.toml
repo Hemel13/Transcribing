@@ -97,7 +97,7 @@ googleAnalytics = "UA-106195578-1"
 
 	# Contact section
 	[params.contact]
-		headline = "Tell us what you think"
+		headline = "We're here to support you"
 		description = "Help us bring the best possible offering to you. All advice and constructive criticism is appreciated, even a simple thanks!"
 		Whatsapp = "078 000 8714"
 		email = "snxhem001@myuct.ac.za"
