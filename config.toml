@@ -51,7 +51,7 @@ googleAnalytics = "UA-106195578-1"
 	# About section
 	[params.about]
 		headline    = "Do you feel that you don't have enough time for a course?"
-		description = "[Transcripts are the answer. ](//google.com) We can't make that course go away, but we can provide a tool to let you filter relevent information, quickly find what you are looking for, and improve your learning speed and retention."
+		description = "[Transcripts are the answer. ](//en.wikipedia.org/wiki/Transcription_(linguistics)) We can't make that course go away, but we can provide a tool to let you filter relevent information, quickly find what you are looking for, and improve your learning speed and retention."
 		buttonText  = "Click Scripts up top"
 
 
@@ -93,7 +93,7 @@ googleAnalytics = "UA-106195578-1"
 
 		[params.aside.button]
 			text = "Donate"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			link = "//paypal.me/WordOMouth"
 
 	# Contact section
 	[params.contact]
